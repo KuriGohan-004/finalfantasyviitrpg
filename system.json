@@ -1,0 +1,36 @@
+{
+  "id": "finalfantasyviitrpg",
+  "version": "0.0.1",
+  "title": "Final Fantasy VII Tabletop",
+  "url": "https://github.com/foundryvtt/worldbuilding/",
+  "description": "A TRPG system for the world of Final Fantasy VII, based on the Simple Worldbuilding System for Foundry designed by Atropos.",
+  "license": "LICENSE.txt",
+  "authors": [
+    {
+      "name": "Kuri_Kame",
+      "url": "https://foundryvtt.com"
+    }
+  ],
+  "esmodules": ["module/simple.js"],
+  "styles": ["styles/simple.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "grid": {
+    "distance": 5,
+    "units": "ft"
+  },
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
+  "download": "https://github.com/foundryvtt/worldbuilding/archive/refs/tags/release-082.zip"
+}
