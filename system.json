@@ -2,13 +2,13 @@
   "id": "finalfantasyviitrpg",
   "version": "0.0.1",
   "title": "Final Fantasy VII Tabletop",
-  "url": "https://github.com/foundryvtt/worldbuilding/",
+  "url": "https://github.com/KuriGohan-004/finalfantasyviitrpg",
   "description": "A TRPG system for the world of Final Fantasy VII, based on the Simple Worldbuilding System for Foundry designed by Atropos.",
   "license": "LICENSE.txt",
   "authors": [
     {
       "name": "Kuri_Kame",
-      "url": "https://foundryvtt.com"
+      "url": ""
     }
   ],
   "esmodules": ["module/simple.js"],
